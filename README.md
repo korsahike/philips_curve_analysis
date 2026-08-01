@@ -1,6 +1,5 @@
-
-
 ##Research question
+
 How does the unemployment rates affect the inflation rates in the United States
 
 ##Project Overview
