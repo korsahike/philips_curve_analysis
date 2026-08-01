@@ -56,3 +56,7 @@ The errors were dectected using
 ###Inflation and Unemployment Trends over Time
 <img width="1088" height="790" alt="unemp_inflate" src="https://github.com/user-attachments/assets/0ee16bc8-6121-43b3-a4e5-601ed8b394fd" />
 
+###Unemploymment and Inflation Scatterplot
+<img width="1189" height="890" alt="download" src="https://github.com/user-attachments/assets/8bd8b513-8fc6-4aff-89e5-e4f58c894776" />
+
+
