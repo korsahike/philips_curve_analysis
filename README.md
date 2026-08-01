@@ -9,3 +9,17 @@ This projects aims to check if the philips curve assumption using time seroes ed
 The Philips Curve suggest that there is an inverse relationship between unemployment and inflation.Whgn unemployment increases it leads to a decrease in the inflation since more people are not working and unable to use their purchasing power.
 
 This analysis is being tested using US economic data that utilises econometric and machine learning methods to check the intertemporal relationship.
+
+##Dataset
+
+Macroeconmics time series dataset is utilised for the project
+
+- Unemployment rate(%)
+- Inflation rate(%)
+
+Data Frequency
+- Monthly data
+
+Source 
+- Federal Reserve Bank of St Louis
+- 
