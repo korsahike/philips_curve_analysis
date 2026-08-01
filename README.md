@@ -22,4 +22,30 @@ Data Frequency
 
 Source 
 - Federal Reserve Bank of St Louis
-- 
+
+##Econometric Methods 
+
+###Ordinary Least Squares
+
+###Augmented Dickey Fuller Test
+
+###Vector Autoregressive(VAR)
+
+###Granger Causality
+
+###Impulse Response Function
+
+###Forecast Variance Decompostion
+
+##Machine Learning Methods
+
+###Polynoimial Regression
+
+###Train Test Split
+
+###Model Evaluation
+
+The errors were dectected using
+- Mean Squared Error
+- R squared
+- Root mean squred Error
