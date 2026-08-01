@@ -49,3 +49,10 @@ The errors were dectected using
 - Mean Squared Error
 - R squared
 - Root mean squred Error
+
+
+##Time Series Visualisation 
+
+###Inflation and Unemployment Trends over Time
+<img width="1088" height="790" alt="unemp_inflate" src="https://github.com/user-attachments/assets/0ee16bc8-6121-43b3-a4e5-601ed8b394fd" />
+
