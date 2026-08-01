@@ -59,4 +59,8 @@ The errors were dectected using
 ###Unemploymment and Inflation Scatterplot
 <img width="1189" height="890" alt="download" src="https://github.com/user-attachments/assets/8bd8b513-8fc6-4aff-89e5-e4f58c894776" />
 
+###Residual plot
+<img width="857" height="682" alt="residual" src="https://github.com/user-attachments/assets/3fe55baf-07fc-48d2-838f-6ce0c5de8349" />
+
+
 
