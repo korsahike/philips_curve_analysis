@@ -27,11 +27,19 @@ Source
 
 ###Ordinary Least Squares
 
+Acts as a baseline model to estimate the unemployment and inflation rate parameters
+
 ###Augmented Dickey Fuller Test
+
+Checks fpr stationarity in a time series model.
 
 ###Vector Autoregressive(VAR)
 
+
+
 ###Granger Causality
+
+Checks whether the unemployment variable can estimate the inflation rate
 
 ###Impulse Response Function
 
