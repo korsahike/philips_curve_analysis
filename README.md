@@ -44,7 +44,7 @@ Checks whether the unemployment variable can estimate the inflation rate
 
 ###Impulse Response Function
 
-Tracks hpow inflation and unemployment rate shows a dynamic response when there is a shock to either variable.
+Tracks how inflation and unemployment rate shows a dynamic response when there is a shock to either variable.
 
 ###Forecast Variance Decompostion
 
@@ -56,7 +56,7 @@ A regression model used to predict the non linear patterns of between inflation 
 
 ###Train Test Split
 
-The ability for the model to split the data for testing data and training data to see if the model could learn from unseen patterns by generalisation
+Split the data into testing data and training data to see if the model could learn from unseen patterns by generalisation
 
 ###Model Evaluation
 
