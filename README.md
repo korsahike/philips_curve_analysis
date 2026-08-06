@@ -37,6 +37,7 @@ Checks fpr stationarity in a time series model.
 
 
 
+
 ###Granger Causality
 
 Checks whether the unemployment variable can estimate the inflation rate
